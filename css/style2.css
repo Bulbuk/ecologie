@@ -1,0 +1,162 @@
+.header{
+	background: url(../img/ground.png);
+	width: 1330px;
+	height: 460px;
+}
+.footer{
+	background: url(../img/footer.png);
+	height: 206px;
+	width: 1330px;
+	display: flex;
+}
+.header_title{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	font-family: Rubik One;
+
+}
+.header_subtitle{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	font-family: Rubik One;
+}
+.nav{
+	display: flex;
+}
+.href{ 
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+	border: 5px solid #F2EC5C;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 250px;
+	height: 35px;
+}
+.nav_home{
+	font-family: Rubik One;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-left: 140px;
+	text-decoration: none;
+	color: white;
+
+}
+.nav_research{
+	font-family: Rubik One;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: white;
+	margin-left: 140px;
+	color: #F2EC5C;
+	text-decoration: none;
+
+}
+.nav_men_nature{
+	font-family: Rubik One;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: white;
+	margin-left: 140px;
+	text-decoration: none;
+
+}
+.plant{
+	margin-left: 20px;	
+}
+.nav_men_nature:hover{
+	font-family: Rubik One;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: 0em;
+	text-align: left;
+	color:#F2EC5C ;
+	margin-left: 140px;
+	transition: 1s;
+	text-decoration: none;
+
+}
+.nav_research:hover{
+	font-family: Rubik One;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: white;
+	margin-left: 140px;
+	color:#F2EC5C ;
+	transition: 1s;
+	text-decoration: none;
+}
+.nav_home:hover{
+	font-family: Rubik One;
+	font-size: 34px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 42px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-left: 140px;
+	text-decoration: none;
+	color: #F2EC5C;
+
+}
+.footer_nav{
+	display: flex;
+	margin-top: 40px;
+	margin-left: 600px;
+}
+.footer_nav > a{
+	margin-left: 20px;
+}
+.footer_title{
+	margin-top: 40px;
+	margin-left: 40px;
+	color: #6D854E;
+	font-family: Rubik One;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+
+	
+}
+.egologie_problems{
+	color: grey;
+	text-align: center;
+	width: 800px;
+}
+.problems{
+	margin: 0 auto;
+	width: 800px;
+}
+.problem1{
+	display: flex;
+}
+.egologie_problems2{
+	color: grey;
+	text-align: ;
+	width: 400px;
+	margin-left: 100px
+}
+.problem1_img{
+	width: 200px;
+	margin-left: 100px;
+}
